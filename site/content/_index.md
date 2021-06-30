@@ -10,8 +10,10 @@ intro:
     text: "The classroom environment at Sri Lakshmi Chennakeshava High School allows your childs’ educators to give them the time and attention that they need in order to succeed. We believe in keeping class numbers low to maximum learning potential."
 products:
     - image: img/illustrations-coffee.svg
+      heading: "Individual Attention, Fantastic Facilities and Life Long Learning"
       text: "Each student has access to the best possible learning technologies, as well having guest classes from industry professionals. We believe this better prepares your child for their careers or own businesses."
     - image: /img/illustrations-coffee-gear.svg
+      heading: "Individual Attention, Fantastic Facilities and Life Long Learning"
       text: "We believe in equipping your children with the skills to be able to learn for the rest of their lives! By instilling in them a method of analytical thinking, we believe they will be able to be independent thinkers and be high performers in their chosen careers."
 ---
 
