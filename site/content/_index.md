@@ -7,7 +7,9 @@ blurb:
     text: "Our mission has been to provide the absolute best learning environment, coupled with educators who care and who are amongst the most highly qualified in their field. Sri Lakshmi Chennakeshava High School is a place of teaching excellence, where your children can feel at home while learning the skills that will help them thrive after their school years are over. As a parent, what more can you ask for? We equip your children for their chosen field of study and careers with lifelong learning skills."
 intro:
     heading: "Individual Attention, Fantastic Facilities and Life Long Learning"
-    text: "The classroom environment at Sri Lakshmi Chennakeshava High School allows your childs’ educators to give them the time and attention that they need in order to succeed. We believe in keeping class numbers low to maximum learning potential."
+products:
+    - image: img/illustrations-coffee.svg
+      text: "The classroom environment at Sri Lakshmi Chennakeshava High School allows your childs’ educators to give them the time and attention that they need in order to succeed. We believe in keeping class numbers low to maximum learning potential."
 products:
     - image: img/illustrations-coffee.svg
       heading: "Individual Attention, Fantastic Facilities and Life Long Learning"
