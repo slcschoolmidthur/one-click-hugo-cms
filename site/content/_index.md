@@ -1,10 +1,10 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Sri Lakshmi Chennakeshava High School"
+subtitle: Your child's Bright Future is OUR MISSION
+image: /img/school.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: What we offer
+    text: "Sri Lakshmi Chennakeshava High School is a place of teaching excellence, where your children can feel at home while learning the skills that will help them thrive after their school years are over. As a parent, what more can you ask for? We equip your children for their chosen field of study and careers with lifelong learning skills."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
