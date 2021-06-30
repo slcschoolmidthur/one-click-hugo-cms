@@ -12,6 +12,6 @@ products:
     - image: img/pass.jpg
       text: "Each student has access to the best possible learning technologies, as well having guest classes from industry professionals. We believe this better prepares your child for their careers or own businesses."
      - image: /img/readyforfuture2.jpg
-      text: "We believe in equipping your children with the skills to be able to learn for the rest of their lives! By instilling in them a method of analytical thinking, we believe they will be able to be independent thinkers and be high performers in their chosen careers."
+       text: "We believe in equipping your children with the skills to be able to learn for the rest of their lives! By instilling in them a method of analytical thinking, we believe they will be able to be independent thinkers and be high performers in their chosen careers."
 ---
 
