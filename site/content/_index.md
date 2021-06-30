@@ -4,7 +4,7 @@ subtitle: Your child's Bright Future is OUR MISSION
 image: /img/school.jpg
 blurb:
     heading: What we offer
-    text: "Sri Lakshmi Chennakeshava High School is a place of teaching excellence, where your children can feel at home while learning the skills that will help them thrive after their school years are over. As a parent, what more can you ask for? We equip your children for their chosen field of study and careers with lifelong learning skills."
+    text: "Our mission has been to provide the absolute best learning environment, coupled with educators who care and who are amongst the most highly qualified in their field. Sri Lakshmi Chennakeshava High School is a place of teaching excellence, where your children can feel at home while learning the skills that will help them thrive after their school years are over. As a parent, what more can you ask for? We equip your children for their chosen field of study and careers with lifelong learning skills."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
