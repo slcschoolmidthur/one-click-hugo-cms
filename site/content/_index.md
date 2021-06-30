@@ -15,5 +15,8 @@ products:
     - image: /img/illustrations-coffee-gear.svg
       heading: "Life Long Learning"
       text: "We believe in equipping your children with the skills to be able to learn for the rest of their lives! By instilling in them a method of analytical thinking, we believe they will be able to be independent thinkers and be high performers in their chosen careers."
+    - image: /img/illustrations-coffee-gear.svg
+      heading: "Life Long Learning"
+      text: "We believe in equipping your children with the skills to be able to learn for the rest of their lives! By instilling in them a method of analytical thinking, we believe they will be able to be independent thinkers and be high performers in their chosen careers."
 ---
 
