@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Sri Lakshmi Chennakeshava High School"
+subtitle: Your Bright Future is OUR MISSION
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
