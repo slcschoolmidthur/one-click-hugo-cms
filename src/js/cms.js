@@ -12,8 +12,8 @@ import ContactPreview from "./cms-preview-templates/contact";
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
-CMS.registerPreviewTemplate("sri-lakshmi-chenna-keshava-high-school-midthur-updates", PostPreview);
+CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("values", ValuesPreview);
-CMS.registerPreviewTemplate("sri-lakshmi-chenna-keshava-high-school-midthur-location", ContactPreview);
+CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.init();
