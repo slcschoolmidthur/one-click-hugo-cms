@@ -1,6 +1,7 @@
 ---
 title: "Sri Lakshmi Chennakeshava High School"
 subtitle: Your child's Bright Future is OUR MISSION
+subtitle: పల్లె సీమలొ.. పట్టణ స్థాయి విద్య...
 image: /img/school.jpg
 blurb:
     heading: About Us
