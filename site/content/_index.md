@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "పల్లె సీమలో.. పట్టణ స్థాయి విద్య..."
 subtitle: 
 image: /img/school.jpeg
 blurb:
