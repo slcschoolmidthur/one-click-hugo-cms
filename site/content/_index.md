@@ -1,6 +1,6 @@
 ---
-title: ".                                                                                                                                                          ."
-subtitle: 
+title: ""
+subtitle: &#8205;
 image: /img/school.jpeg
 blurb:
     heading: Sri Lakshmi Chennakeshava High School
