@@ -1,6 +1,6 @@
 ---
 title: Contact Sri Lakshmi Chennakeshava High School
-logo: img/new-logo.jpg
+logo: img/whatsapp.jpeg
 contact_entries:
   - heading: Location
     text: Sri Lakshmi Chennakeshava High School, Midthur - 518405, Kurnool
