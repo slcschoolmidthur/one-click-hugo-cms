@@ -1,5 +1,5 @@
 ---
-title: "|"
+title: ""
 subtitle: 
 image: /img/school.jpeg
 blurb:
