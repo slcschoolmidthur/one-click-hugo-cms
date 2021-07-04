@@ -5,12 +5,6 @@ backend:
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: dih2u6hwy
-    api_key: 286534839531596
-
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
