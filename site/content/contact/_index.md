@@ -1,6 +1,7 @@
 ---
 title: Contact Sri Lakshmi Chennakeshava High School
-logo: https://api.whatsapp.com/send?phone=919963322119
+  https://api.whatsapp.com/send?text=Contact:%20Sri%20Lakshmi%20Chennakeshava%20high%20school&phone=919963322119
+logo: img/whatsapp.jpeg
 contact_entries:
   - heading: Location
     text: Sri Lakshmi Chennakeshava High School, Midthur - 518405, Kurnool
