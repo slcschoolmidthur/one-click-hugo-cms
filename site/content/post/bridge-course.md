@@ -5,5 +5,6 @@ description: >-
   Dear parents 
 
   This is to inform you that the BRIDGE COURSE will be starting from 7th July Wednesday from class 1st.
+image: img/img_20210611_135238.jpg
 ---
 .
