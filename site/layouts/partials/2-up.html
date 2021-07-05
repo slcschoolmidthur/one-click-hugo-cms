@@ -1,10 +1,12 @@
-<div class="bg-off-white pv4">
-  <div class="ph3 mw7 center cover">
-    <div class="bg-fix-primary pv4">
-    <h3 class="f4 b lh-title mb1 white bg-primary pv4" style="text-align:center">{{.intro.heading}} <br /> {{.intro.subtitle}}</h3>
-    </div>
-    <p class="mb4 mw7 pv4">{{.intro.text}}</p>
 
+  <div class="pv5 pv6-1 ph3 bg-center cover">
+    <h3 class="f4 b lh-title mb1 white bg-primary pv4" style="text-align:center">{{.intro.heading}} <br /> {{.intro.subtitle}}</h3>
+  </div>  
+
+   <div class="bg-off-white pv4">
+     
+    <p class="mb4 mw7 pv4">{{.intro.text}}</p>
+ 
     <div class="flex-ns mhn2-ns mb3">
       {{ range .products }}
       <div class="ph2-ns w-50-ns">
@@ -15,6 +17,4 @@
       {{ end }}
     </div>
 
- 
-  </div>
 </div>
