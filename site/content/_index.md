@@ -1,9 +1,9 @@
 ---
-title: Hi
-subtitle: Hello
+title: My School
+subtitle: Best School in Midthur
 image: /img/school2.jpeg
 blurb:
-  heading: Sri Lakshmi Chennakeshava High School
+  heading: శ్రీ లక్ష్మీ చెన్నకేశవ ఉన్నత పాఠశాల
   text: Sri Lakshmi Chennakeshava High School is a place of teaching excellence,
     where your children can feel at home while learning the skills that will
     help them thrive after their school years are over. As a parent, what more
@@ -34,5 +34,5 @@ products:
       high performers in their chosen careers.
 values:
   heading: Hi
-  text: Hi
+  text: Good morning
 ---
