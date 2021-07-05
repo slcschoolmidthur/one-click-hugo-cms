@@ -1,6 +1,6 @@
 ---
-title: My School
-subtitle: Best School in Midthur
+title: " "
+subtitle: " "
 image: /img/school2.jpeg
 blurb:
   heading: శ్రీ లక్ష్మీ చెన్నకేశవ ఉన్నత పాఠశాల
@@ -21,17 +21,17 @@ products:
       your childs’ educators to give them the time and attention that they need
       in order to succeed. We believe in keeping class numbers low to maximum
       learning potential.
-  - image: /img/computer.jpeg
-    heading: Fantastic Facilities
-    text: Each student has access to the best possible learning technologies, as
-      well having guest classes from industry professionals. We believe this
-      better prepares your child for their careers or own businesses.
   - image: /img/fun.jpeg
     heading: Ready for the Future
     text: We believe in equipping your children with the skills to be able to learn
       for the rest of their lives! By instilling in them a method of analytical
       thinking, we believe they will be able to be independent thinkers and be
       high performers in their chosen careers.
+  - image: /img/computer.jpeg
+    heading: Fantastic Facilities
+    text: Each student has access to the best possible learning technologies, as
+      well having guest classes from industry professionals. We believe this
+      better prepares your child for their careers or own businesses.
 values:
   heading: Hi
   text: Good morning
