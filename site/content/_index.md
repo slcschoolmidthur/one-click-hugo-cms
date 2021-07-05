@@ -10,7 +10,8 @@ blurb:
     can you ask for? We equip your children for their chosen field of study and
     careers with lifelong learning skills.
 intro:
-  heading: పల్లె సీమలో.. పట్టణ స్థాయి విద్య...
+  heading: పల్లె సీమలో..
+  subtitle: పట్టణ స్థాయి విద్య...
   text: Our mission has been to provide the absolute best learning environment,
     coupled with educators who care and who are amongst the most highly
     qualified in their field.
