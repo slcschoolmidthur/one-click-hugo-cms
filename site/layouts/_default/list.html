@@ -2,6 +2,10 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/school.jpeg" "title" " ") }}
 
+  <div class="pv0">
+    <h3 class="f4 b lh-title mb1 white bg-primary pv3" style="text-align:center">Latest Updates</h3>
+  </div>  
+
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
