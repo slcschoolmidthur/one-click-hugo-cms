@@ -33,6 +33,6 @@ products:
       well having guest classes from industry professionals. We believe this
       better prepares your child for their careers or own businesses.
 values:
-  heading: Hi
-  text: Good morning
+  heading: " "
+  text: " "
 ---
