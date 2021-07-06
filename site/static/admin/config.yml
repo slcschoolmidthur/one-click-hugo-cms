@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo: slcschoolmidthur/sri-lakshmi-chenna-keshava-high-school-repository
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
@@ -35,9 +34,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Products", name: products, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
