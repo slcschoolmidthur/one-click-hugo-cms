@@ -23,10 +23,11 @@
 			<div style="text-align:center;">
 				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
 				<ul>
-					
-					<li><a href="fb://facewebmodal/f?href=https://www.facebook.com/sri.lakshmi.chennakeshava.high.school"> <img src="icons-facebook.svg"> </a></li>
-					<li><a href="https://fb://facewebmodal/f?href=https://www.facebook.com/sri.lakshmi.chennakeshava.high.school"> <img src="icons-facebook.svg"> </a></li>
-					<li><a href="https://wa.me/send?text=Sri%20Lakshmi%20Chennakeshava%20high%20school's%20website%20is%20https://slc-school.com"> <img src="icons-whatsapp.jpeg"> </a></li>
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/Sri.Lakshmi.Chennakeshava.High.School" "svg" "icons-facebook") }}
+					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
+					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
+					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
+
 
 				</ul>
 			</div>
@@ -35,5 +36,5 @@
 	</div>
 
 </footer>
-
+{{ partial "svg" . }}
 <script src="/app.js"></script>
