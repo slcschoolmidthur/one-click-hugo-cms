@@ -1,6 +1,7 @@
 ---
-title: " "
-subtitle: " "
+title: "Sri Lakshmi Chennakeshava High School "
+subtitle: "Sri Lakshmi Chennakeshava High School, Midthur - 518405, Kurnool
+  (District), Andhra Pradesh, INDIA "
 image: /img/school2.jpeg
 blurb:
   heading: శ్రీ లక్ష్మీ చెన్నకేశవ ఉన్నత పాఠశాల
