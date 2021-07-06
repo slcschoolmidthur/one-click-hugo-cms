@@ -1,6 +1,7 @@
 ---
 title: "Contact Sri Lakshmi Chennakeshava High School"
 logo: "img/whatsapp.jpeg"
+google_map: "https://www.google.com/maps/dir//%E0%B0%B6%E0%B1%8D%E0%B0%B0%E0%B1%80+%E0%B0%B2%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AE%E0%B1%80+%E0%B0%9A%E0%B1%86%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%95%E0%B1%87%E0%B0%B6%E0%B0%B5+%E0%B0%89%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%A4+%E0%B0%AA%E0%B0%BE%E0%B0%A0%E0%B0%B6%E0%B0%BE%E0%B0%B2/@15.7766534,78.2202949,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bb5c09dca5deb29:0x5f05921c68aa412e!2m2!1d78.2903354!2d15.7766646"
 contact_entries:
   - heading: Location
     text: Sri Lakshmi Chennakeshava High School, Midthur - 518405, Kurnool
@@ -11,68 +12,3 @@ contact_entries:
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
-
-<!-- Main Container -->
-
-<div class="container-fluid-kamn">
-  <div class="row">
-    <div>
-      <iframe width="100%" height="450px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ site.google_map }}"></iframe>
-      <br />
-    </div>
-    <div class="container">
-      <div class="col-lg-4">
-        <h4>Find us at:</h4>
-
-        <p class="block-author">{{ site.company_name }}</p>
-        <p>{{ site.address_line }}</p>
-        <p>Phone: {{ site.telephone_number }}</p>
-        <p>Fax: {{ site.fax_number }}</p>
-
-        <em class="block-author">Email: {{ site.company_email }}</em> <br>
-        <br>
-        <!-- p class="lead">Social Link</p><hr>
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-          <a href="#"><img src="assets/img/social-icons/btn_skype.png" alt="Skype"></a>
-          Call us
-        </div>
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-          <a href="#"><img src="assets/img/social-icons/btn_facebook.png" alt="Facebook"></a>
-          Like us
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-3 col-xs-12">
-          <a href="#"><img src="assets/img/social-icons/btn_twitter.png" alt="Twitter"></a>
-          Follow us
-        </div>
-        <br !-->
-      </div>
-      <div class="col-lg-8">
-        <div class="feedback-form">
-
-          <div id="contact-response"></div>
-          
-          <form action="http://templates.designorbital.com/baleen/contact.php" method="post" id="contact-form">
-            <fieldset>
-              <div class="form-group form-group-fullname">
-                <label class="control-label" for="fullname">NAME *</label>
-                <input type="text" class="form-control" name="fullname" id="fullname" placeholder="Enter Your Name">
-              </div>
-              <div class="form-group form-group-email">
-                <label class="control-label" for="email">E-MAIL *</label>
-                <input type="text" class="form-control" name="email" id="email" placeholder="Enter Your E-Mail">
-              </div>
-              <div class="form-group form-group-message">
-                <label class="control-label" for="message">MESSAGE *</label>
-                <textarea class="form-control" name="message" id="message" rows="3"></textarea>
-              </div>           
-              <button type="submit" class="btn btn-primary">Submit</button>
-            </fieldset>
-          </form>
-          
-        </div> 
-      </div>
-    </div>
-  </div>
-</div>    
-    
-<!--End Main Container -->
